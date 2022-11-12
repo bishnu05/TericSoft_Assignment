@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.featured,.cycling,.armoury,.aquatics,.extreme,.equestrain,.golf,.gymnastics,.lakesea{
+     background-color: grey;
+     border-radius: 100%;
+     padding: 12px;
+     color: white;
+}
