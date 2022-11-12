@@ -1,0 +1,1028 @@
+{
+    "cycling": {
+      "options": [
+        "BMX",
+        "Mountain",
+        "Road",
+        "Track"
+      ],
+      "data": {
+        "BMX": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Mountain": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Road": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Track": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ]
+      }
+    },
+    "aquatics": {
+      "options": [
+        "Swimming",
+        "Water Polo",
+        "Diving",
+        "Open Water Swimming"
+      ],
+      "data": {
+        "Swimming": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.pexels.com/photos/711187/pexels-photo-711187.jpeg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.pexels.com/photos/711187/pexels-photo-711187.jpeg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.pexels.com/photos/711187/pexels-photo-711187.jpeg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Water Polo": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://i.pinimg.com/736x/6f/7d/d5/6f7dd57e2026fce617177f56988498e5--water-polo-game-polo-aqu%C3%A1tico.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://i.pinimg.com/736x/6f/7d/d5/6f7dd57e2026fce617177f56988498e5--water-polo-game-polo-aqu%C3%A1tico.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://i.pinimg.com/736x/6f/7d/d5/6f7dd57e2026fce617177f56988498e5--water-polo-game-polo-aqu%C3%A1tico.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Diving": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://c.stocksy.com/a/KTx000/z9/228614.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://c.stocksy.com/a/KTx000/z9/228614.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://c.stocksy.com/a/KTx000/z9/228614.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Open Water Swimming": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://www.stylist.co.uk/images/app/uploads/2021/03/19113641/cold-water-swimming-women-sport-969x969.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://www.stylist.co.uk/images/app/uploads/2021/03/19113641/cold-water-swimming-women-sport-969x969.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://www.stylist.co.uk/images/app/uploads/2021/03/19113641/cold-water-swimming-women-sport-969x969.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ]
+      }
+    },
+    "extreme": {
+      "options": [
+        "BMX",
+        "Mountain",
+        "Road",
+        "Track"
+      ],
+      "data": {
+        "BMX": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Mountain": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Road": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Track": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ]
+      }
+    },
+    "armoury": {
+      "options": [
+        "BMX",
+        "Mountain",
+        "Road",
+        "Track"
+      ],
+      "data": {
+        "BMX": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Mountain": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Road": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Track": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ]
+      }
+    },
+    "lake&sea": {
+      "options": [
+        "BMX",
+        "Mountain",
+        "Road",
+        "Track"
+      ],
+      "data": {
+        "BMX": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Mountain": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Road": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Track": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ]
+      }
+    },
+    "featured": {
+      "options": [
+        "BMX",
+        "Mountain",
+        "Road",
+        "Track"
+      ],
+      "data": {
+        "BMX": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Mountain": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Road": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Track": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ]
+      }
+    },
+    "equestrain": {
+      "options": [
+        "BMX",
+        "Mountain",
+        "Road",
+        "Track"
+      ],
+      "data": {
+        "BMX": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Mountain": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Road": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Track": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ]
+      }
+    },
+    "golf": {
+      "options": [
+        "BMX",
+        "Mountain",
+        "Road",
+        "Track"
+      ],
+      "data": {
+        "BMX": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Mountain": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Road": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Track": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ]
+      }
+    },
+    "gymnastics": {
+      "options": [
+        "BMX",
+        "Mountain",
+        "Road",
+        "Track"
+      ],
+      "data": {
+        "BMX": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1627403516444-da5d6efa7a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym14JTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Mountain": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/MtnBiking_SedonaMag.jpg",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Road": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://images.unsplash.com/photo-1603879558815-569898cdbcb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN5Y2xpc3R8ZW58MHx8MHx8&w=1000&q=80",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ],
+        "Track": [
+          {
+            "id": 1,
+            "day": "1",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "Highlights"
+          },
+          {
+            "id": 2,
+            "day": "2",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "Heats",
+            "footage": "MIXED"
+          },
+          {
+            "id": 3,
+            "day": "3",
+            "image": "https://media.istockphoto.com/photos/high-angle-view-of-rider-riding-bicycle-picture-id129179516?b=1&k=20&m=129179516&s=170667a&w=0&h=7b2OeqfMoF2wYqJhbySNYxqELCMGNwNHjvPmZks_HsE=",
+            "duration": "5:12",
+            "level": "SEMI'S",
+            "footage": "MIXED"
+          }
+        ]
+      }
+    }
+  }
